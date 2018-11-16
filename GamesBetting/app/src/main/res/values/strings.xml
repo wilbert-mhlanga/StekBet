@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">StekBET</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_earnings">International Games</string>
+    <string name="title_activity_games_to_bet">Games To Bet</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="title_activity_place_a_bet">Place A Bet</string>
+
+    <string name="title_activity_primier_league">Premier League</string>
+    <string name="title_activity_la_liga">La Liga</string>
+    <string name="title_activity_bundesliga"> Bundesliga </string>
+    <string name="title_activity_serie">Serie A</string>
+    <string name="title_activity_world_cup_matches">World Cup Matches</string>
+
+    <string name="monday">Monday Games</string>
+    <string name="tuesday">Tuesday Games</string>
+    <string name="wednesday">Wednesday Games</string>
+    <string name="thursday">Thursday Games</string>
+    <string name="friday">Friday Games</string>
+    <string name="saturday">Saturday Games</string>
+    <string name="sunday">Sunday Games</string>
+
+    <string name="african">African Games</string>
+    <string name="zimbabwean">Zimbabwean Games</string>
+    <string name="International">International Games</string>
+
+    <string name="btn_gamestobet">Games To BET</string>
+    <string name="btn_myearnings">My Eanings</string>
+    <string name="btn_myprofile">My Profile</string>
+    <string name="btn_aboutapp">About GamesBetting</string>
+    <string name="hello">ImageView from URL</string>
+    <string name="title_activity_user_login">UserLogin</string>
+    <string name="title_activity_http_parse">HttpParse</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_sqlite_helper">SqliteHelper</string>
+    <string name="title_activity_http_service_class">HttpServiceClass</string>
+    <string name="title_activity_list_adapter">ListAdapter</string>
+    <string name="title_activity_my_tickets">My Ticket </string>
+    <string name="title_activity_payment"> Payment </string>
+
+</resources>

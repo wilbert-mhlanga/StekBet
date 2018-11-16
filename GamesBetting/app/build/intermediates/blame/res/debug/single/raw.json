@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/raw/notification.mp3",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/raw/notification.mp3"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/raw/notification.mp3",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/raw/notification.mp3"
+    }
+]

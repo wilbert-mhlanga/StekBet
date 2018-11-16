@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/values-lo/values-lo.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 263,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/res/values-lo/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 263,
+                        "endOffset": 602
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/values-lo/values-lo.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 263,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/res/values-lo/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 263,
+                        "endOffset": 602
+                    }
+                }
+            }
+        ]
+    }
+]

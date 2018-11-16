@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_b2d6aaf61f8c54aec06f068f1c9577f38efba6e3.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_a3cd1600056e2c066fd0aa61eaaad6d1f9b2b3a4.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_1f330ac011f023790e30487717059d5b1557e397.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_908ce5eeff1fe7a60054eb882dcfcbab277fad98.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.0_eb2e45e648c9d84e4534945b5671e075f56f968f.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.0_0a8639e2256c92911233211e27d5d252bd38b9c5.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_9425f0a2429ba1f4b357d75135eade8bbe81b17b.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_16e60477d4290b09ec85f812f0f7591c086a19c9.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_4ddb9220c332d5e8132ab48600a2f07d23155164.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.0_106594720bd9c24ec1dc555a57b5507e96dd5bf9.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.0_0782e11f501aa6e406b08d59e6b27cc4fc73c4c7.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_c4a6a4144a64ff8d368a0523c92cd077c50cb3fc.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_df7054834820551b603cfd9e3f6cbf466d7dd94a.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_63fc4a8f1c46863e747f8abb2190d5884c114598.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_2548429936603a98d6f243534b6169ab3956b558.jar" />
+    </item>
+    <item
+        jar="/home/wilbert/My-projects/StekBet/GamesBetting/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d5b8c556427a60ed5f7f0abc415555de7bbba1ad">
+        <dex dex="/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy_617595e4221d40da8d3fe7614ca2fc4bd08e533c.jar" />
+    </item>
+
+</items>

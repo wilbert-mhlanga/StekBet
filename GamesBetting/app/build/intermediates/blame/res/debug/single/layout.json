@@ -1,0 +1,690 @@
+[
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_http_service_class.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_http_service_class.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_monday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_monday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_friday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_friday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_place_a_bet.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_place_a_bet.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_main_menu.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/list_of_leagues.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/list_of_leagues.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_bundesliga.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_bundesliga.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_about_games_betting.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_about_games_betting.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_african.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_african.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_african.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_african.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_wednesday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_wednesday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_ticket_on_wait.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_ticket_on_wait.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_wednesday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_wednesday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_ticket_adapter.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_ticket_adapter.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_world__cup__matches.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_world__cup__matches.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_friday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_friday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_sunday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_sunday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_list_adapter.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_list_adapter.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_premier_league.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_premier_league.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/app_custom_list.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/app_custom_list.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_betting_amount.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_betting_amount.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_serie.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_serie.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_main_menu.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_sqlite_helper.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_sqlite_helper.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_my_earnings.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_my_earnings.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_config.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_config.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_user_login.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_user_login.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_http_service_class.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_http_service_class.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/ticket_match_list.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/ticket_match_list.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_config.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_config.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_my_profile.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_my_profile.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_bundesliga.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_bundesliga.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/ticket_match_list.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/ticket_match_list.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_la_liga.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_la_liga.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_monday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_monday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_ticket_on_wait.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_ticket_on_wait.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_la_liga.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_la_liga.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/my_leagues_list.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/my_leagues_list.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_my_profile.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_my_profile.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_http_parse.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_http_parse.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_games_to_bet.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_games_to_bet.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_sqlite_helper.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_sqlite_helper.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_international.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_international.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_world__cup__matches.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_world__cup__matches.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_thursday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_thursday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_sunday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_sunday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_games_to_bet.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_games_to_bet.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_tuesday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_tuesday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_place_a_bet.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_place_a_bet.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/app_custom_list.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/app_custom_list.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_international.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_international.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_thursday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_thursday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_list_adapter.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_list_adapter.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/my_leagues_list.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/my_leagues_list.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_my_earnings.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_my_earnings.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_http_parse.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_http_parse.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_serie.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_serie.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_payment.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_tuesday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_tuesday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_about_games_betting.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_about_games_betting.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_ticket_adapter.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_ticket_adapter.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_premier_league.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_premier_league.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_payment.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_zimbabwe.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_zimbabwe.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_saturday.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_saturday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_saturday.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/fragment_saturday.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/list_of_leagues.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/list_of_leagues.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_user_login.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/activity_user_login.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/activity_betting_amount.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/src/main/res/layout/activity_betting_amount.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/fragment_zimbabwe.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/src/main/res/layout/fragment_zimbabwe.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/wilbert/My-projects/StekBet/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/wilbert/My-projects/GamesBetting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    }
+]

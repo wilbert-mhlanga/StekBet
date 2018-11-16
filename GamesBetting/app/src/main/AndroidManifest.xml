@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.drwilbert.gamesbetting">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/applogotwo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.Create_Ticket"
+            android:label="Create a Ticket"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.UserLogin"
+            android:label="@string/title_activity_user_login"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.MyTickets"
+            android:label="@string/title_activity_my_tickets"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.MainMenu"
+            android:label="@string/title_activity_main_menu"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.Registration"
+            android:label="@string/title_activity_registration"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.Payment"
+            android:label="@string/title_activity_payment"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.leagues.PremierLeague"
+            android:label="@string/title_activity_primier_league"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.leagues.LaLiga"
+            android:label="@string/title_activity_la_liga"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.leagues.Bundesliga"
+            android:label="@string/title_activity_bundesliga"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.leagues.SerieA"
+            android:label="@string/title_activity_serie"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.leagues.World_Cup_Matches"
+            android:label="@string/title_activity_world_cup_matches"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.Submit_Bet"
+            android:label="Submit A Bet"
+            android:theme="@style/AppTheme" />
+
+        <!-- Firebase Notifications -->
+        <service android:name=".firebase.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".firebase.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <!-- ./Firebase Notifications -->
+
+        <activity android:name=".activities.Ticket_on_wait"></activity>
+    </application>
+
+</manifest>

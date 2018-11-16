@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "711605558430",
+    "firebase_url": "https://stekbet-id.firebaseio.com",
+    "project_id": "stekbet-id",
+    "storage_bucket": "stekbet-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711605558430:android:73afa64eaef059ac",
+        "android_client_info": {
+          "package_name": "com.example.drwilbert.gamesbetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711605558430-8atrgler589o1ffdcknicnbo65r57v37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMlx8BicKQ1gfeRdNUOu-RIzgdttGZCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
